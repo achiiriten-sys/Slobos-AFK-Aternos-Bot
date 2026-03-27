@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Xylee18",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "",
+    "ip": "ElephantAppleEater.aternos.me",
     "port": 16959,
     "version": "",
     "try-creative": false
@@ -31,9 +31,11 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I love Clonge",
+        "Clonge is my best friend!",
+        "Clonge is best"
+        "Where is my friend Clonge?"
+        "Be nice to me and ill be kind to you:)"
       ]
     },
     "chat-log": true,
@@ -60,7 +62,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -69,8 +71,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
