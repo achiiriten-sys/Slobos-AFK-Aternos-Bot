@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ElephantAppleEater.aternos.me",
-    "port": 16959,
+    "ip": "OurJava.aternos.me",
+    "port": 56359,
     "version": "",
     "try-creative": false
   },
